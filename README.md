@@ -1,5 +1,5 @@
 <h1>
-    <img width="35" valign="bottom" src="https://raw.githubusercontent.com/marmicode/checklist-cli/master/src/assets/angular-checklist.png">
+    <img width="35" valign="bottom" src="https://raw.githubusercontent.com/typebytes/checklist-cli/master/src/assets/angular-checklist.png">
     Checklist Template
 </h1>
 
